@@ -1,3 +1,5 @@
+<p align="center"><img src="img/logo-zornotza.png" alt="CIFP Zornotza LHII" width="460"></p>
+
 # Reto · Proyecto intermodular · SMR (2.º de SMR)
 
 **CIFP Zornotza LHII · curso 2026-27 · módulo 1713 Proyecto intermodular · 50 h · grado medio**
